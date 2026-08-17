@@ -108,7 +108,33 @@ flowchart TD
 - No retry/error-handling path yet if the sentiment API is unreachable mid-run
 
 ## Screenshots
+### 1. Full workflow
 
-*(Add once the system has run for a few days: Google Sheets log, a live Slack alert, and a sample daily digest email)*
+<img width="1311" height="700" alt="Full workflow" src="https://github.com/user-attachments/assets/1de74560-46d8-43a6-8f4a-8e97d05f70ba" />
+
+
+### 2. Gmail Integration
+
+<img width="1309" height="682" alt="Gmail integration" src="https://github.com/user-attachments/assets/0beb5280-a11c-44b1-9a9d-c120a7a738d7" />
+
+
+### 3. Render Dashboard showing deployed url
+
+<img width="1306" height="684" alt="render dash" src="https://github.com/user-attachments/assets/aa425972-4ef8-4cc5-bddb-b1c756c3bf10" />
+
+
+### 4. Api docs
+
+<img width="1293" height="589" alt="api docs" src="https://github.com/user-attachments/assets/341d3ace-65a4-45e1-ba0b-8f8171bba7cd" />
+
+
+### 5. Google Sheets
+
+<img width="1306" height="682" alt="Google sheet" src="https://github.com/user-attachments/assets/d8787474-0b30-4584-9bd4-8732203e5b60" />
+
+
+### 6. Morning digest Email
+
+<img width="1307" height="678" alt="Email brief" src="https://github.com/user-attachments/assets/f7cb3e6a-1b7c-4f52-8a6a-d4091bf88632" />
 
 ---
